@@ -34,7 +34,7 @@ public class OMSAdmin extends JFrame {
 
 
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setTitle("Online Media System for Admin- Phạm Thành Nam - 20173266 ");
+		setTitle("Online Media System");
 		setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
 		setVisible(true);
 	}
